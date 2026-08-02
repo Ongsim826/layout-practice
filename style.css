@@ -1,0 +1,30 @@
+ body {
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+                border: 1px solid gray;
+                padding: 10px;
+            }
+            header {
+                border: 1px solid gray;
+                padding: 10px;
+            }
+            aside {
+                border: 1px solid gray;
+                padding: 10px;
+            }
+            main {
+                border: 1px solid gray;
+                padding: 10px;
+            }
+            footer {
+                border: 1px solid gray;
+                padding: 10px;
+            }
+            .container {
+                display: flex;
+                gap: 1rem;
+            }
+            .sidebar {
+                width: 500px;
+            }
